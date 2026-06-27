@@ -1,0 +1,84 @@
+{
+  "schema": "slackstock.public_market_reports.v1",
+  "updated_at": "2026-06-28T08:39:59+09:00",
+  "reports": [
+    {
+      "date": "2026-06-27",
+      "slot_time": "21:50",
+      "title": "2026-06-27 주말 해외 장·국제 정세 점검",
+      "verdict": "주말 관망 유지",
+      "summary": "현재 시각 기준 판단은 기존과 동일하게 주말 관망 유지입니다. 국내 정규장은 토요일이라 새 가격이 형성되지 않았고, 월요일 방향을 지금 매수나 매도 한쪽으로 단정할 근거는 아직 부족합니다.",
+      "path": "reports/2026/06/2026-06-27-weekend-global-market-report.md",
+      "sources": [
+        {
+          "label": "AP",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-23adc65bcbdcc464633316e712612548"
+        },
+        {
+          "label": "MarketWatch 미국 증시 라이브",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-tech-sell-off-oil-prices"
+        },
+        {
+          "label": "Business Insider 글로벌 기술주·한국 증시",
+          "url": "https://www.businessinsider.com/korea-kospi-stock-market-price-today-nikkei-softbank-tech-selloff-2026-6"
+        },
+        {
+          "label": "MarketWatch 유가·이란 보도",
+          "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8"
+        },
+        {
+          "label": "Guardian 우크라이나 전쟁 브리핑",
+          "url": "https://www.theguardian.com/world/2026/jun/27/ukraine-war-briefing-russian-occupied-crimea-declares-emergency-as-zelenskyys-forces-step-up-attacks"
+        },
+        {
+          "label": "Axios 우크라이나 드론 공격과 러시아 정유 시설",
+          "url": "https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries"
+        },
+        {
+          "label": "CSIS 이란 충돌과 한국 경제 영향",
+          "url": "https://www.csis.org/analysis/impact-iran-conflict-south-korea-numbers"
+        }
+      ],
+      "updated_at": "2026-06-28T08:15:20+09:00"
+    },
+    {
+      "date": "2026-06-26",
+      "slot_time": "20:20",
+      "title": "2026-06-26 시장 종합 보고서",
+      "verdict": "관망",
+      "summary": "20시 20분 기준 야간선물 흐름을 추가로 반영했습니다. KOSPI200 2026년 9월물 야간선물은 20시 20분 5분봉 기준 1375.00 부근에 머물렀습니다. 낮장 마감 부근의 반등 가격인 1378.70을 바로 위로 회복하지 못하고 있어, 장중 급락 뒤 나온 반등이 아직 확실한 추세 회복으로 이어졌다고 보기는 어렵습니다.",
+      "path": "reports/2026/06/2026-06-26-market-integrated-report.md",
+      "sources": [
+        {
+          "label": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260626000786"
+        },
+        {
+          "label": "연합뉴스",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260626129200002"
+        },
+        {
+          "label": "연합뉴스 마켓뷰",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260626017900008"
+        },
+        {
+          "label": "경인방송",
+          "url": "https://news.ifm.kr/news/articleViewAmp.html?idxno=473857"
+        },
+        {
+          "label": "Business Insider",
+          "url": "https://www.businessinsider.com/korea-kospi-stock-market-price-today-nikkei-softbank-tech-selloff-2026-6"
+        },
+        {
+          "label": "Washington Post/AP",
+          "url": "https://www.washingtonpost.com/business/2026/06/26/stocks-markets-ai-chips-oil-rates/8c471e6e-7118-11f1-8730-e7fd0e2a6404_story.html"
+        },
+        {
+          "label": "MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-tech-sell-off-oil-prices/card/nasdaq-set-to-fall-after-tech-sell-off-in-asia-fPHmImZ3DTXxemhuQauY"
+        }
+      ],
+      "updated_at": "2026-06-28T08:39:59+09:00"
+    }
+  ]
+}
