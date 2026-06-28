@@ -1,13 +1,13 @@
 {
   "schema": "slackstock.public_market_reports.v1",
-  "updated_at": "2026-06-28T10:26:06+09:00",
+  "updated_at": "2026-06-28T12:46:17+09:00",
   "reports": [
     {
       "date": "2026-06-28",
-      "slot_time": "10:10",
+      "slot_time": "12:40",
       "title": "2026-06-28 주말 해외 장·국제 정세 점검",
       "verdict": "주말 관망 유지",
-      "summary": "오늘은 2026-06-28 일요일이라 국내 정규장은 열리지 않습니다. 따라서 이번 판단은 새 매수·매도 신호가 아니라, 2026-06-29 월요일 개장 전 확인해야 할 해외 시장과 국제 정세 점검입니다.",
+      "summary": "새로 정리한 분석 루브릭을 적용해도 현재 판단은 주말 관망 유지입니다. 일요일이라 국내 정규장 가격은 새로 형성되지 않았고, 월요일 개장 전까지는 방향을 단정하기보다 조건 확인이 우선입니다.",
       "path": "reports/2026/06/2026-06-28-weekend-global-market-report.md",
       "sources": [
         {
@@ -23,6 +23,14 @@
           "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8"
         },
         {
+          "label": "Guardian 미국·이란 충돌 보도",
+          "url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes"
+        },
+        {
+          "label": "Axios 미국·이란 호르무즈 긴장",
+          "url": "https://www.axios.com/2026/06/27/us-iran-strikes-strait-hormuz"
+        },
+        {
           "label": "Guardian 우크라이나 전쟁 브리핑",
           "url": "https://www.theguardian.com/world/2026/jun/27/ukraine-war-briefing-russian-occupied-crimea-declares-emergency-as-zelenskyys-forces-step-up-attacks"
         },
@@ -31,7 +39,7 @@
           "url": "https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries"
         }
       ],
-      "updated_at": "2026-06-28T10:26:06+09:00"
+      "updated_at": "2026-06-28T12:46:17+09:00"
     },
     {
       "date": "2026-06-27",

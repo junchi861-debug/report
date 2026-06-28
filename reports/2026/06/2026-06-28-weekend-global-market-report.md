@@ -1,11 +1,25 @@
 # 2026-06-28 주말 해외 장·국제 정세 점검
 
 작성 시각: 2026-06-28 10:14 KST
-최종 갱신: 2026-06-28 10:14 KST
+최종 갱신: 2026-06-28 12:42 KST
 대상 시장: KOSPI200 선물·옵션 참고용 해외 흐름
 종합 판단: 주말 관망 유지
 
 ## 업데이트 소식
+
+### 2026-06-28 12:42 KST 현재 판단
+
+새로 정리한 분석 루브릭을 적용해도 현재 판단은 `주말 관망 유지`입니다. 일요일이라 국내 정규장 가격은 새로 형성되지 않았고, 월요일 개장 전까지는 방향을 단정하기보다 조건 확인이 우선입니다.
+
+시장 종합 관점에서는 “강한 상승장”보다 “주도주가 흔들리는 가운데 업종 순환이 나타나는 장”에 가깝습니다. Investor's Business Daily는 나스닥이 50일선 아래로 밀렸고 S&P 500도 50일선 부근을 소폭 이탈했다고 설명했습니다. 이는 기술적 분석 기준으로 콜 추격 신뢰도를 낮추는 신호입니다. 다만 다우와 일부 헬스케어·은행·소프트웨어 종목은 상대적으로 버티고 있어, 시장 전체가 한 번에 무너진 위험회피 장이라고 단정하기도 어렵습니다.
+
+경제지표와 매크로 관점에서는 이번 주 미국 고용보고서가 중요합니다. 고용이 너무 강하면 금리 인하 기대가 약해져 성장주와 반도체에 부담이 될 수 있고, 반대로 고용이 급격히 약하면 경기 둔화 우려가 커질 수 있습니다. 따라서 지표 발표 전에는 방향성보다 변동성 확대 가능성을 먼저 봐야 합니다.
+
+세계 정세와 유가 관점에서는 중동 리스크가 더 커졌습니다. MarketWatch는 미국의 이란 보복 타격 확인 이후 유가가 시간외에서 반등했다고 전했고, Guardian과 Axios도 미국·이란 충돌과 호르무즈 해협 긴장이 다시 시장 변수로 떠올랐다고 전했습니다. 이 흐름은 한국 시장에서 원/달러 환율, 항공·운송·화학·정유 업종, 외국인 선물 수급에 영향을 줄 수 있습니다.
+
+리스크 관리 관점에서는 지금 구간에서 새 방향을 먼저 정하는 것보다 손절·무효 조건을 정해두는 것이 더 중요합니다. 월요일에 반도체 대형주가 회복하고 외국인 KOSPI200 선물이 순매수로 돌아서며 환율과 유가가 안정되면 상방 확인 가능성이 생깁니다. 반대로 반도체가 추가로 밀리고 환율·유가가 같이 오르면 하방 방어가 우선입니다.
+
+따라서 현재 공개 판단은 `관망 유지`입니다. 상방은 반도체 대형주 회복과 외국인 선물 순매수 확인 전까지 보류하고, 하방은 환율·유가·미국 선물이 동시에 흔들릴 때만 강하게 봅니다.
 
 ### 2026-06-28 10:14 KST 현재 판단
 
@@ -73,6 +87,8 @@
 - Investor's Business Daily 미국 시장 주간 점검: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/
 - Investor's Business Daily 업종 순환 점검: https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-rotating-for-now-away-from-the-ai-boom/
 - MarketWatch 유가·이란 보도: https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8
+- Guardian 미국·이란 충돌 보도: https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes
+- Axios 미국·이란 호르무즈 긴장: https://www.axios.com/2026/06/27/us-iran-strikes-strait-hormuz
 - Guardian 우크라이나 전쟁 브리핑: https://www.theguardian.com/world/2026/jun/27/ukraine-war-briefing-russian-occupied-crimea-declares-emergency-as-zelenskyys-forces-step-up-attacks
 - Axios 우크라이나 드론 공격과 러시아 정유 시설: https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries
 
