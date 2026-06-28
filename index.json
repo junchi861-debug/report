@@ -1,13 +1,13 @@
 {
   "schema": "slackstock.public_market_reports.v1",
-  "updated_at": "2026-06-28T12:46:17+09:00",
+  "updated_at": "2026-06-28T17:01:01+09:00",
   "reports": [
     {
       "date": "2026-06-28",
-      "slot_time": "12:40",
+      "slot_time": "16:50",
       "title": "2026-06-28 주말 해외 장·국제 정세 점검",
       "verdict": "주말 관망 유지",
-      "summary": "새로 정리한 분석 루브릭을 적용해도 현재 판단은 주말 관망 유지입니다. 일요일이라 국내 정규장 가격은 새로 형성되지 않았고, 월요일 개장 전까지는 방향을 단정하기보다 조건 확인이 우선입니다.",
+      "summary": "직전 갱신 이후 가장 중요한 변화는 새 국내 가격이 아니라, 해외 변수의 위험 경로가 더 선명해졌다는 점입니다. 국내 정규장은 일요일이라 열리지 않았고, KOSPI200 선물·옵션의 실제 가격 반응은 아직 확인되지 않았습니다. 따라서 기존 판단인 주말 관망 유지를 그대로 둡니다.",
       "path": "reports/2026/06/2026-06-28-weekend-global-market-report.md",
       "sources": [
         {
@@ -31,6 +31,10 @@
           "url": "https://www.axios.com/2026/06/27/us-iran-strikes-strait-hormuz"
         },
         {
+          "label": "Axios 유가·연료·항공료 부담",
+          "url": "https://www.axios.com/2026/06/27/gas-airfare-oil-brent-prices-iran"
+        },
+        {
           "label": "Guardian 우크라이나 전쟁 브리핑",
           "url": "https://www.theguardian.com/world/2026/jun/27/ukraine-war-briefing-russian-occupied-crimea-declares-emergency-as-zelenskyys-forces-step-up-attacks"
         },
@@ -39,7 +43,7 @@
           "url": "https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries"
         }
       ],
-      "updated_at": "2026-06-28T12:46:17+09:00"
+      "updated_at": "2026-06-28T17:01:01+09:00"
     },
     {
       "date": "2026-06-27",
