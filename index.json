@@ -1,21 +1,23 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T07:17:26+09:00",
+    "updated_at":  "2026-06-29T08:23:55+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-29",
-                        "slot_time":  "07:10",
+                        "slot_time":  "08:20",
                         "title":  "2026-06-29 개장 전 시장 종합 보고서",
-                        "verdict":  "개장 초반 관망",
-                        "summary":  "현재 판단은 `개장 초반 관망`입니다. 오늘은 월요일 개장 전이라 아직 국내 정규장 체결, KOSPI200 선물 호가, ATM 옵션 스프레드, 외국인 선물 수급이 확인되지 않았습니다. 따라서 방향을 먼저 정하기보다 09:00 이후 첫 30분의 가격 반응과 수급을 확인하는 것이 우선입니다.",
+                        "verdict":  "개장 전 관망 유지",
+                        "summary":  "현재 판단은 `개장 전 관망 유지`입니다. 07:10 갱신 이후 국내 정규장 가격, 외국인 KOSPI200 선물 수급, ATM 옵션 호가 스프레드는 아직 확인되지 않았습니다. 따라서 새 방향을 먼저 정하기보다 09:00 개장 직후 30분 동안 반도체 대형주, 원/달러 환율, 외국인 선물 수급이 같은 방향으로 움직이는...",
                         "path":  "reports/2026/06/2026-06-29-market-integrated-report.md",
                         "sources":  [
-                                        "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/",
                                         "https://www.barrons.com/articles/futures-sunday-trading-prices-stock-d0ae1bb0",
                                         "https://www.marketwatch.com/market-data/us",
-                                        "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-tech-sell-off-oil-prices"
+                                        "https://www.cnbc.com/pre-markets/",
+                                        "https://www.investing.com/currencies/usd-krw",
+                                        "https://www.marketwatch.com/investing/future/cl.1",
+                                        "https://finance.yahoo.com/quote/EWY/"
                                     ],
-                        "updated_at":  "2026-06-29T07:17:26+09:00"
+                        "updated_at":  "2026-06-29T08:23:55+09:00"
                     },
                     {
                         "date":  "2026-06-28",
