@@ -1,6 +1,6 @@
-﻿{
+{
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T07:16:57+09:00",
+    "updated_at":  "2026-06-29T07:17:26+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-29",
@@ -15,7 +15,7 @@
                                         "https://www.marketwatch.com/market-data/us",
                                         "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-tech-sell-off-oil-prices"
                                     ],
-                        "updated_at":  "2026-06-29T07:16:57+09:00"
+                        "updated_at":  "2026-06-29T07:17:26+09:00"
                     },
                     {
                         "date":  "2026-06-28",
