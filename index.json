@@ -1,6 +1,6 @@
 {
   "schema": "slackstock.public_market_reports.v1",
-  "updated_at": "2026-06-28T08:39:59+09:00",
+  "updated_at": "2026-06-28T09:07:06+09:00",
   "reports": [
     {
       "date": "2026-06-27",
@@ -39,7 +39,7 @@
           "url": "https://www.csis.org/analysis/impact-iran-conflict-south-korea-numbers"
         }
       ],
-      "updated_at": "2026-06-28T08:15:20+09:00"
+      "updated_at": "2026-06-28T09:07:06+09:00"
     },
     {
       "date": "2026-06-26",
