@@ -1,7 +1,26 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T18:47:46+09:00",
+    "updated_at":  "2026-06-30T08:07:09+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-06-30",
+                        "slot_time":  "08:00",
+                        "title":  "2026-06-30 시장 종합 보고서",
+                        "verdict":  "개장 전 관망, 상방은 반도체와 1,350선 확인 조건부",
+                        "summary":  "현재 결론은 `개장 전 관망, 상방은 반도체와 1,350선 확인 조건부`입니다. 국내 지수는 아직 PREOPEN 상태라 정규장 가격 반응은 확인되지 않았고, 전일 KOSPI200 종가 1,352.54가 1,350선을 지킨 점만 출발 기준으로 삼을 수 있습니다. 개장 전 시간외에서는 삼성전자와 SK하이닉스가 전일 종가...",
+                        "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS200?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/CL=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d"
+                                    ],
+                        "updated_at":  "2026-06-30T08:07:09+09:00"
+                    },
                     {
                         "date":  "2026-06-29",
                         "slot_time":  "18:45",
