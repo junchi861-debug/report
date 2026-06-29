@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T13:02:55+09:00",
+    "updated_at":  "2026-06-29T13:43:34+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-29",
-                        "slot_time":  "13:00",
+                        "slot_time":  "13:30",
                         "title":  "2026-06-29 시장 종합 보고서",
                         "verdict":  "하방 방어 우선, 상방은 확인 조건부",
-                        "summary":  "현재 결론은 `하방 방어 우선, 상방은 확인 조건부`로 유지합니다. 09:40 이후 KOSPI200은 저점권에서 일부 회복했지만 1,350선 회복에는 아직 못 미쳤고, 반도체 대형주의 동반 낙폭 축소도 충분히 확인되지 않았습니다. 따라서 방향을 새로 올리기보다 기존 방어 우선 판단을 유지하고 확인 조건만 좁혀 보는 ...",
+                        "summary":  "현재 결론은 `하방 방어 우선, 상방은 확인 조건부`로 유지합니다. 13:00 이후 KOSPI200의 회복 시도는 다시 약해졌고, 반도체 대형주의 낙폭도 확대되었습니다. 15분 슬롯 기준으로는 새 상방 판단을 만들 근거보다 1,311선 재시험 여부를 확인해야 할 근거가 더 큽니다.",
                         "path":  "reports/2026/06/2026-06-29-market-integrated-report.md",
                         "sources":  [
                                         "https://global.krx.co.kr/contents/GLB/06/0602/0602010000/GLB0602010000.jsp",
@@ -21,7 +21,7 @@
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d"
                                     ],
-                        "updated_at":  "2026-06-29T13:02:55+09:00"
+                        "updated_at":  "2026-06-29T13:43:34+09:00"
                     },
                     {
                         "date":  "2026-06-28",
