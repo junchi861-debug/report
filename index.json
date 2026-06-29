@@ -1,20 +1,26 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T08:31:22+09:00",
+    "updated_at":  "2026-06-30T08:38:41+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
                         "slot_time":  "08:30",
                         "title":  "2026-06-30 시장 종합 보고서",
-                        "verdict":  "개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기 동시 확인",
-                        "summary":  "현재 결론은 `개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기 동시 확인`입니다. 08:26 KST 기준 네이버 금융 공개 데이터에서 KOSPI, KOSDAQ, KOSPI200은 모두 PREOPEN 상태이고 KOSPI200은 전일 종가 1,352.54로 1,350선 위에 있습니다. 정규장 수급이 아직 없기...",
+                        "verdict":  "개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기·비철금속 동시 확인",
+                        "summary":  "현재 결론은 `개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기·비철금속 동시 확인`입니다. 08:26 KST 기준 네이버 금융 공개 데이터에서 KOSPI, KOSDAQ, KOSPI200은 모두 PREOPEN 상태이고 KOSPI200은 전일 종가 1,352.54로 1,350선 위에 있습니다. 정규장 수급이 ...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
                                         "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005490,004020,010130,103140,006260,001440,229640,267260,010120,034020",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS200?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/HG=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/GC=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/SI=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/PL=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/PA=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/CL=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d",
@@ -24,7 +30,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T08:31:22+09:00"
+                        "updated_at":  "2026-06-30T08:38:41+09:00"
                     },
                     {
                         "date":  "2026-06-29",
