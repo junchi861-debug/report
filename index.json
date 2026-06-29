@@ -1,7 +1,19 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T13:43:34+09:00",
+    "updated_at":  "2026-06-29T14:01:55+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-06-29",
+                        "slot_time":  "14:01",
+                        "title":  "2026-06-29 백테스트 리포트",
+                        "verdict":  "관찰 우세",
+                        "summary":  "- A 모니터 신호 로그를 기준으로 3개 5분봉 보유 후 청산하는 가정의 검증 리포트를 생성했습니다.",
+                        "path":  "reports/2026/06/2026-06-29-backtest-report.md",
+                        "sources":  [
+
+                                    ],
+                        "updated_at":  "2026-06-29T14:01:55+09:00"
+                    },
                     {
                         "date":  "2026-06-29",
                         "slot_time":  "13:30",
