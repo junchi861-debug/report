@@ -1,25 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T14:01:55+09:00",
+    "updated_at":  "2026-06-29T17:33:23+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-29",
-                        "slot_time":  "14:01",
-                        "title":  "2026-06-29 백테스트 리포트",
-                        "verdict":  "관찰 우세",
-                        "summary":  "- A 모니터 신호 로그를 기준으로 3개 5분봉 보유 후 청산하는 가정의 검증 리포트를 생성했습니다.",
-                        "path":  "reports/2026/06/2026-06-29-backtest-report.md",
-                        "sources":  [
-
-                                    ],
-                        "updated_at":  "2026-06-29T14:01:55+09:00"
-                    },
-                    {
-                        "date":  "2026-06-29",
-                        "slot_time":  "13:30",
+                        "slot_time":  "17:30",
                         "title":  "2026-06-29 시장 종합 보고서",
-                        "verdict":  "하방 방어 우선, 상방은 확인 조건부",
-                        "summary":  "현재 결론은 `하방 방어 우선, 상방은 확인 조건부`로 유지합니다. 13:00 이후 KOSPI200의 회복 시도는 다시 약해졌고, 반도체 대형주의 낙폭도 확대되었습니다. 15분 슬롯 기준으로는 새 상방 판단을 만들 근거보다 1,311선 재시험 여부를 확인해야 할 근거가 더 큽니다.",
+                        "verdict":  "관망, 상방은 추가 확인 조건부",
+                        "summary":  "현재 결론은 `관망, 상방은 추가 확인 조건부`로 완화합니다. 13:30 이후 KOSPI200이 1,350선을 회복해 종가 1,352.54로 마감했고, SK하이닉스 낙폭도 13:30의 4%대에서 종가 기준 1.68% 하락으로 줄었습니다. 다만 삼성전자는 여전히 4.86% 하락했고, 환율과 유가 부담도 남아 있어 상방...",
                         "path":  "reports/2026/06/2026-06-29-market-integrated-report.md",
                         "sources":  [
                                         "https://global.krx.co.kr/contents/GLB/06/0602/0602010000/GLB0602010000.jsp",
@@ -33,7 +21,19 @@
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d"
                                     ],
-                        "updated_at":  "2026-06-29T13:43:34+09:00"
+                        "updated_at":  "2026-06-29T17:33:23+09:00"
+                    },
+                    {
+                        "date":  "2026-06-29",
+                        "slot_time":  "14:01",
+                        "title":  "2026-06-29 백테스트 리포트",
+                        "verdict":  "관찰 우세",
+                        "summary":  "- A 모니터 신호 로그를 기준으로 3개 5분봉 보유 후 청산하는 가정의 검증 리포트를 생성했습니다.",
+                        "path":  "reports/2026/06/2026-06-29-backtest-report.md",
+                        "sources":  [
+
+                                    ],
+                        "updated_at":  "2026-06-29T14:01:55+09:00"
                     },
                     {
                         "date":  "2026-06-28",
