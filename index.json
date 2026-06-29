@@ -1,36 +1,33 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T08:38:41+09:00",
+    "updated_at":  "2026-06-30T08:59:43+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "08:30",
-                        "title":  "2026-06-30 시장 종합 보고서",
-                        "verdict":  "개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기·비철금속 동시 확인",
-                        "summary":  "현재 결론은 `개장 전 관망, AI 인프라 병목 논쟁 속 반도체·전력기기·비철금속 동시 확인`입니다. 08:26 KST 기준 네이버 금융 공개 데이터에서 KOSPI, KOSDAQ, KOSPI200은 모두 PREOPEN 상태이고 KOSPI200은 전일 종가 1,352.54로 1,350선 위에 있습니다. 정규장 수급이 ...",
+                        "slot_time":  "08:50",
+                        "title":  "2026-06-30 시장 테이프",
+                        "verdict":  "겉은 AI 인프라 테마가 뜨겁지만, 지수 테이프는 1,350선 아래라 찜찜함",
+                        "summary":  "한 줄로 보면 `테마는 뜨겁고 지수는 불편한 장전`입니다. 전력기기, 전선, 구리·비철 쪽에는 돈이 붙고 있습니다. 그런데 KOSPI200은 08:54 KST 기준 1,334.25로 표시돼 이전에 보던 1,350선 위 판단이 깨졌습니다. 아직 PREOPEN이라 정규장 체결은 아니지만, 이 숫자 자체가 오늘 장을 편하...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
                                         "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720",
                                         "https://polling.finance.naver.com/api/realtime/domestic/stock/005490,004020,010130,103140,006260,001440,229640,267260,010120,034020",
-                                        "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?interval=1m\u0026range=1d",
-                                        "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS200?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/HG=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/GC=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/SI=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/PL=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/PA=F?interval=1m\u0026range=1d",
-                                        "https://query1.finance.yahoo.com/v8/finance/chart/CL=F?interval=1m\u0026range=1d",
-                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
-                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d",
                                         "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
                                         "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
                                         "https://www.cerebras.ai/blog/disaggregated-inference",
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T08:38:41+09:00"
+                        "updated_at":  "2026-06-30T08:59:43+09:00"
                     },
                     {
                         "date":  "2026-06-29",
