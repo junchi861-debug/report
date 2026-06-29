@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-29T09:44:32+09:00",
+    "updated_at":  "2026-06-29T13:02:55+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-29",
-                        "slot_time":  "09:40",
+                        "slot_time":  "13:00",
                         "title":  "2026-06-29 시장 종합 보고서",
                         "verdict":  "하방 방어 우선, 상방은 확인 조건부",
-                        "summary":  "현재 결론은 `하방 방어 우선, 상방은 확인 조건부`입니다. KRX·KIND 공개 일정에서 2026-06-29는 월요일 정규 거래일이고, 네이버 금융 공개 실시간 데이터에서도 주요 지수의 `marketStatus`가 `OPEN`으로 확인됩니다. 다만 개장 후 40분 구간의 가격 반응은 지수별로 크게 갈립니다. KOS...",
+                        "summary":  "현재 결론은 `하방 방어 우선, 상방은 확인 조건부`로 유지합니다. 09:40 이후 KOSPI200은 저점권에서 일부 회복했지만 1,350선 회복에는 아직 못 미쳤고, 반도체 대형주의 동반 낙폭 축소도 충분히 확인되지 않았습니다. 따라서 방향을 새로 올리기보다 기존 방어 우선 판단을 유지하고 확인 조건만 좁혀 보는 ...",
                         "path":  "reports/2026/06/2026-06-29-market-integrated-report.md",
                         "sources":  [
                                         "https://global.krx.co.kr/contents/GLB/06/0602/0602010000/GLB0602010000.jsp",
@@ -21,7 +21,7 @@
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d"
                                     ],
-                        "updated_at":  "2026-06-29T09:44:32+09:00"
+                        "updated_at":  "2026-06-29T13:02:55+09:00"
                     },
                     {
                         "date":  "2026-06-28",
