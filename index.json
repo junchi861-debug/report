@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T10:04:06+09:00",
+    "updated_at":  "2026-06-30T10:33:16+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "10:00",
+                        "slot_time":  "10:30",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200이 1,350선 회복에 실패하고 1,335대로 밀려 하방 방어가 더 선명해진 장",
-                        "summary":  "한 줄로 보면 `금융만 버티고 지수는 저점 방어를 다시 시험하는 장`입니다. 10:02 KST 공개 데이터 기준 KOSPI200은 1,335.34, -1.27%, marketStatus는 OPEN입니다. 09:30의 1,344.98에서도 더 낮아져 1,350선은 멀어졌고, 당일 저점 1,325.41과의 거리도 좁아졌...",
+                        "verdict":  "KOSPI200이 1,350선을 되찾았지만 SK하이닉스와 2차전지 약세가 남아 상방 재확인은 아직 조건부인 장",
+                        "summary":  "한 줄로 보면 `지수는 1,350선을 되찾았지만, 반도체와 2차전지의 속도가 엇갈리는 재확인 장`입니다. 10:31 KST 공개 데이터 기준 KOSPI200은 1,359.34, +0.50%, marketStatus는 OPEN입니다. 10:00의 1,335.34에서 급하게 회복해 1,350선 위로 다시 올라왔고, KO...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -27,7 +27,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T10:04:06+09:00"
+                        "updated_at":  "2026-06-30T10:33:16+09:00"
                     },
                     {
                         "date":  "2026-06-29",
