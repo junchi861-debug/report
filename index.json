@@ -1,18 +1,17 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T09:04:19+09:00",
+    "updated_at":  "2026-06-30T09:33:59+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "09:00",
+                        "slot_time":  "09:30",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200은 1,350선을 되찾았지만, 상승 폭은 반도체·금융에 기대고 있어 아직 확인 단계",
-                        "summary":  "한 줄로 보면 `지수는 숨을 돌렸지만, 폭은 아직 좁은 상방 확인 장`입니다. 09:02 KST 공개 데이터 기준 KOSPI200은 1,361.99, +0.70%로 1,350선을 다시 위로 넘겼습니다. 장전의 1,350선 아래 불편함은 일단 풀렸지만, KOSDAQ은 -0.58%라 시장 전체가 넓게 뜨는 장은 아닙니다.",
+                        "verdict":  "KOSPI200은 1,350선을 다시 내주며 상방 확인에서 하방 방어 우선으로 낮아진 장",
+                        "summary":  "한 줄로 보면 `상방 확인이 한 번 열렸다가 바로 꺾인 장`입니다. 09:31 KST 공개 데이터 기준 KOSPI200은 1,344.98, -0.56%로 1,350선을 다시 내줬고, 장중 고점 1,377.93에서 당일 저점권인 1,343.33 근처까지 내려왔습니다. 09:00의 1,350선 회복 판단은 유지하기 어렵...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
-                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720",
-                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005490,004020,010130,103140,006260,001440,229640,267260,010120,034020",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720,005490,004020,010130,103140,006260,001440,229640,267260,010120,034020,105560,086790,373220",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d",
@@ -21,13 +20,14 @@
                                         "https://query1.finance.yahoo.com/v8/finance/chart/SI=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/PL=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/PA=F?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/CL=F?interval=1m\u0026range=1d",
                                         "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
                                         "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
                                         "https://www.cerebras.ai/blog/disaggregated-inference",
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T09:04:19+09:00"
+                        "updated_at":  "2026-06-30T09:33:59+09:00"
                     },
                     {
                         "date":  "2026-06-29",
