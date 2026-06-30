@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T13:34:25+09:00",
+    "updated_at":  "2026-06-30T14:04:43+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "13:30",
+                        "slot_time":  "14:00",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200이 1,396선까지 고점을 높여 1,380선을 뚫었고 삼성전자·SK하이닉스가 같이 강하지만, 환율 1,548원대와 KOSDAQ·2차전지·철강·인터넷 약세 때문에 상방 확인은 강화하되 폭 확산과 환율 안정 확인이 필요한 장",
-                        "summary":  "한 줄로 보면 `1,380선을 넘기며 상방 확인은 강해졌지만, 지수 쏠림과 환율 부담은 아직 남은 장`입니다. 13:32 KST 공개 데이터 기준 KOSPI200은 1,396.79, +3.27%, marketStatus는 OPEN입니다. 13:00의 1,375.42에서 한 번 더 크게 올라 장중 고점 1,396.79...",
+                        "verdict":  "30보다 나아졌지만, 환율 1,547원대와 2차전지·철강·인터넷 약세 때문에 1,400선 안착과 환율 안정 확인이 필요한 장",
+                        "summary":  "한 줄로 보면 `상방 확인은 살아 있고 폭도 조금 넓어졌지만, 1,400선 문턱과 환율이 아직 걸리는 장`입니다. 14:01 KST 공개 데이터 기준 KOSPI200은 1,399.89, +3.50%, marketStatus는 OPEN입니다. 13:30의 1,396.79에서 한 번 더 올라 장중 고점 1,404.10을...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -28,7 +28,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T13:34:25+09:00"
+                        "updated_at":  "2026-06-30T14:04:43+09:00"
                     },
                     {
                         "date":  "2026-06-29",
