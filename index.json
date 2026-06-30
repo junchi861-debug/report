@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T11:04:30+09:00",
+    "updated_at":  "2026-06-30T11:33:42+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "11:00",
+                        "slot_time":  "11:30",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200이 1,350선은 지키지만 1,356선 근처로 다시 밀리고 SK하이닉스·2차전지 약세가 남아 상방 재확인은 조건부인 장",
-                        "summary":  "한 줄로 보면 `1,350선은 지키지만 10:30 회복 탄력이 조금 식은 조건부 확인 장`입니다. 11:02 KST 공개 데이터 기준 KOSPI200은 1,355.97, +0.25%, marketStatus는 OPEN입니다. 10:30의 1,359.34에서 다시 밀려 1,356선 바로 근처에 있고, KOSPI는 +0...",
+                        "verdict":  "KOSPI200이 1,370선 근처까지 다시 붙고 반도체가 동반 플러스 전환했지만, KOSDAQ·2차전지·철강 약세가 남아 상방 확인은 강화됐어도 폭은 불균형한 장",
+                        "summary":  "한 줄로 보면 `SK하이닉스까지 플러스 전환하며 상방 확인은 한 칸 강해졌지만, 폭은 여전히 좁은 장`입니다. 11:31 KST 공개 데이터 기준 KOSPI200은 1,369.60, +1.26%, marketStatus는 OPEN입니다. 11:00의 1,355.97에서 다시 올라와 1,370선 근처까지 붙었고, KO...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -28,7 +28,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T11:04:30+09:00"
+                        "updated_at":  "2026-06-30T11:33:42+09:00"
                     },
                     {
                         "date":  "2026-06-29",
