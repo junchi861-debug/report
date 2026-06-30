@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T14:35:12+09:00",
+    "updated_at":  "2026-06-30T15:04:55+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "14:30",
+                        "slot_time":  "15:00",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200이 장중 1,404선을 찍은 뒤 1,390선대로 밀려 상방 확인은 남아 있지만, 1,400선 안착 실패와 환율 1,548원대, 2차전지·철강·인터넷 약세 때문에 추격 신뢰도는 낮아진 장",
-                        "summary":  "한 줄로 보면 `상방 확인은 남아 있지만, 1,400선 안착 실패로 힘은 한 칸 빠진 장`입니다. 14:31 KST 공개 데이터 기준 KOSPI200은 1,390.39, +2.80%, marketStatus는 OPEN입니다. 14:00의 1,399.89에서 내려왔고, 장중 고점 1,404.10을 찍은 뒤 1,400선...",
+                        "verdict":  "KOSPI200이 장중 1,404선을 찍은 뒤 1,384선까지 밀려 상방 확인은 남아 있지만, 1,400선 안착 실패와 1,380선 방어 재확인, 환율 1,548원대, 2차전지·철강·인터넷 약세 때문에 추격 신뢰도는 더 낮아진 장",
+                        "summary":  "한 줄로 보면 `상방 확인은 남아 있지만, 1,380선 방어를 다시 봐야 하는 오후 후반 장`입니다. 15:02 KST 공개 데이터 기준 KOSPI200은 1,384.46, +2.36%, marketStatus는 OPEN입니다. 14:30의 1,390.39에서 다시 내려왔고, 장중 고점 1,404.10을 찍은 뒤 1...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -29,7 +29,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T14:35:12+09:00"
+                        "updated_at":  "2026-06-30T15:04:55+09:00"
                     },
                     {
                         "date":  "2026-06-29",
