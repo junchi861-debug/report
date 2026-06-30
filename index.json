@@ -1,7 +1,28 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T15:34:23+09:00",
+    "updated_at":  "2026-07-01T08:26:37+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-01",
+                        "slot_time":  "08:00",
+                        "title":  "2026-07-01 시장 테이프",
+                        "verdict":  "미국 AI·반도체 쪽 온기는 강하고 국내 장전 호가도 전력기기·금융·비철 쪽이 먼저 뜨지만, KOSPI200은 아직 PREOPEN 1,370.73에 멈춰 있어 정규장 체결과 1,380선 회복을 확인하기 전까지는 상방 재확인 대기 쪽",
+                        "summary":  "한 줄로 보면 `미국 반도체 온기는 좋은데, 국내 지수는 아직 확인 전인 장전`입니다. 08:25 KST 공개 데이터 기준 KOSPI200은 1,370.73, KOSPI는 8,476.48, KOSDAQ은 916.18이고 marketStatus는 PREOPEN입니다. 아직 정규장 체결이 아니어서 지수 방향을 단정할 수...",
+                        "path":  "reports/2026/07/2026-07-01-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720,005490,004020,010130,103140,006260,001440,229640,267260,010120,034020,105560,086790,373220",
+                                        "https://finance.yahoo.com/quote/SPY/",
+                                        "https://finance.yahoo.com/quote/QQQ/",
+                                        "https://finance.yahoo.com/quote/SOXX/",
+                                        "https://finance.yahoo.com/quote/NVDA/",
+                                        "https://finance.yahoo.com/quote/AMD/",
+                                        "https://finance.yahoo.com/quote/TSM/",
+                                        "https://finance.yahoo.com/quote/EWY/",
+                                        "https://www.investing.com/currencies/usd-krw"
+                                    ],
+                        "updated_at":  "2026-07-01T08:26:37+09:00"
+                    },
                     {
                         "date":  "2026-06-30",
                         "slot_time":  "15:30",
