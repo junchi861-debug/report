@@ -1,17 +1,18 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-06-30T10:33:16+09:00",
+    "updated_at":  "2026-06-30T11:04:30+09:00",
     "reports":  [
                     {
                         "date":  "2026-06-30",
-                        "slot_time":  "10:30",
+                        "slot_time":  "11:00",
                         "title":  "2026-06-30 시장 테이프",
-                        "verdict":  "KOSPI200이 1,350선을 되찾았지만 SK하이닉스와 2차전지 약세가 남아 상방 재확인은 아직 조건부인 장",
-                        "summary":  "한 줄로 보면 `지수는 1,350선을 되찾았지만, 반도체와 2차전지의 속도가 엇갈리는 재확인 장`입니다. 10:31 KST 공개 데이터 기준 KOSPI200은 1,359.34, +0.50%, marketStatus는 OPEN입니다. 10:00의 1,335.34에서 급하게 회복해 1,350선 위로 다시 올라왔고, KO...",
+                        "verdict":  "KOSPI200이 1,350선은 지키지만 1,356선 근처로 다시 밀리고 SK하이닉스·2차전지 약세가 남아 상방 재확인은 조건부인 장",
+                        "summary":  "한 줄로 보면 `1,350선은 지키지만 10:30 회복 탄력이 조금 식은 조건부 확인 장`입니다. 11:02 KST 공개 데이터 기준 KOSPI200은 1,355.97, +0.25%, marketStatus는 OPEN입니다. 10:30의 1,359.34에서 다시 밀려 1,356선 바로 근처에 있고, KOSPI는 +0...",
                         "path":  "reports/2026/06/2026-06-30-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
                                         "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720,005490,004020,010130,103140,006260,001440,229640,267260,010120,034020,105560,086790,373220",
+                                        "https://global.krx.co.kr/contents/GLB/01/0109/0109000000/guide_to_trading_in_the_korean_stock_market.pdf",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/ES=F?interval=1m\u0026range=1d",
                                         "https://query1.finance.yahoo.com/v8/finance/chart/NQ=F?interval=1m\u0026range=1d",
@@ -27,7 +28,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T10:33:16+09:00"
+                        "updated_at":  "2026-06-30T11:04:30+09:00"
                     },
                     {
                         "date":  "2026-06-29",
