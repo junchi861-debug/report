@@ -1,10 +1,10 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-01T14:04:48+09:00",
+    "updated_at":  "2026-07-01T14:34:54+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-01",
-                        "slot_time":  "14:00",
+                        "slot_time":  "14:30",
                         "title":  "2026-07-01 시장 테이프",
                         "verdict":  "KOSPI200 선물·옵션 참고용 한국 정규장 흐름",
                         "summary":  "한 줄로 보면 `미국 반도체 온기는 좋은데, 국내 지수는 아직 확인 전인 장전`입니다. 08:25 KST 공개 데이터 기준 KOSPI200은 1,370.73, KOSPI는 8,476.48, KOSDAQ은 916.18이고 marketStatus는 PREOPEN입니다. 아직 정규장 체결이 아니어서 지수 방향을 단정할 수...",
@@ -25,14 +25,14 @@
                                         "https://www.koreaherald.com/article/10790457",
                                         "https://www.ajupress.com/view/20260616100970912",
                                         "https://www.investing.com/currencies/usd-krw",
-                                        "https://en.yna.co.kr/view/AEN20260701001800320",
+                                        "https://en.yna.co.kr/view/AEN20260701001853320",
                                         "https://en.yna.co.kr/view/AEN20260701002600320",
                                         "https://en.yna.co.kr/view/AEN20260701004500320",
                                         "https://en.yna.co.kr/view/AEN20260701002800320",
                                         "https://en.yna.co.kr/view/AEN20260701004900320",
                                         "https://apnews.com/article/korea-samsung-ai-hynix-chips-22352d95c7a821c5f4548b2d1a4ebde8"
                                     ],
-                        "updated_at":  "2026-07-01T14:04:48+09:00"
+                        "updated_at":  "2026-07-01T14:34:54+09:00"
                     },
                     {
                         "date":  "2026-06-30",
