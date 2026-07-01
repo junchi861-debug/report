@@ -1,17 +1,18 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-01T10:35:48+09:00",
+    "updated_at":  "2026-07-01T11:04:05+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-01",
-                        "slot_time":  "10:30",
+                        "slot_time":  "11:00",
                         "title":  "2026-07-01 시장 테이프",
-                        "verdict":  "장전의 상방 재확인 기대는 정규장에서 깨졌고, KOSPI200은 1,342.37까지 밀려 1,370선을 내줬습니다. 반도체 대형주와 지수 대형주가 빠지는 동안 전력기기·전선·방산만 가격이 붙는 좁은 테마장이라, 지금은 상방 확인보다 지수 하방 방어와 테마 과열 분리가 먼저입니다.",
+                        "verdict":  "KOSPI200 선물·옵션 참고용 한국 정규장 흐름",
                         "summary":  "한 줄로 보면 `미국 반도체 온기는 좋은데, 국내 지수는 아직 확인 전인 장전`입니다. 08:25 KST 공개 데이터 기준 KOSPI200은 1,370.73, KOSPI는 8,476.48, KOSDAQ은 916.18이고 marketStatus는 PREOPEN입니다. 아직 정규장 체결이 아니어서 지수 방향을 단정할 수...",
                         "path":  "reports/2026/07/2026-07-01-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
                                         "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720,005490,004020,010130,103140,006260,001440,229640,267260,010120,034020,105560,086790,373220",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
                                         "https://finance.yahoo.com/quote/SPY/",
                                         "https://finance.yahoo.com/quote/QQQ/",
                                         "https://finance.yahoo.com/quote/SOXX/",
@@ -25,7 +26,7 @@
                                         "https://www.ajupress.com/view/20260616100970912",
                                         "https://www.investing.com/currencies/usd-krw"
                                     ],
-                        "updated_at":  "2026-07-01T10:35:48+09:00"
+                        "updated_at":  "2026-07-01T11:04:05+09:00"
                     },
                     {
                         "date":  "2026-06-30",
