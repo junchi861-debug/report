@@ -1,6 +1,6 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-01T08:26:37+09:00",
+    "updated_at":  "2026-07-01T09:46:33+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-01",
@@ -50,7 +50,7 @@
                                         "https://www.korea.kr/news/policyNewsView.do?newsId=148967294",
                                         "https://www.aa.com.tr/en/asia-pacific/japan-targets-23t-investment-for-ai-semiconductors-nuclear-fusion-by-2040/3976731"
                                     ],
-                        "updated_at":  "2026-06-30T15:34:23+09:00"
+                        "updated_at":  "2026-07-01T09:46:33+09:00"
                     },
                     {
                         "date":  "2026-06-29",
