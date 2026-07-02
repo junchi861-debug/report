@@ -1,7 +1,32 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-01T15:34:41+09:00",
+    "updated_at":  "2026-07-02T09:37:03+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-02",
+                        "slot_time":  "09:30",
+                        "title":  "2026-07-02 시장 테이프",
+                        "verdict":  "장 초반 KOSPI200이 1,249.81로 전일 대비 -6.41%까지 밀리며 전일의 1,340선 재확인 조건이 바로 깨졌습니다. 삼성전자 -7.00%, SK하이닉스 -8.52%, SK -11.27%, LS ELECTRIC -8.73%까지 같이 밀려 지금은 상방 확인보다 하방 방어와 1,250선 회복 여부가 먼저입니다.",
+                        "summary":  "한 줄로 보면 `반도체 호재가 가격으로 못 들어오고, 지수는 전일 저점 아래를 다시 확인한 급락 테이프`입니다. 09:35 KST 공개 데이터 기준 KOSPI200은 1,249.81, 전일 대비 -6.41%입니다. 전일 마감 1,335.36은 물론 전일 장중 저점 1,309.84도 크게 밑돌았고, 장 초반 저점은 1...",
+                        "path":  "reports/2026/07/2026-07-02-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,035420,035720,005490,004020,010130,103140,006260,001440,229640,267260,010120,034020,105560,086790,373220,066570,000270,005380,017670,003550,096770,012450,064350,272210,010620,047810,079550,000810,207940,006400,034730,028260,011070",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
+                                        "https://finance.yahoo.com/quote/SPY/",
+                                        "https://finance.yahoo.com/quote/QQQ/",
+                                        "https://finance.yahoo.com/quote/SOXX/",
+                                        "https://finance.yahoo.com/quote/ES=F/",
+                                        "https://finance.yahoo.com/quote/NQ=F/",
+                                        "https://finance.yahoo.com/quote/CL=F/",
+                                        "https://finance.yahoo.com/quote/KRW=X/",
+                                        "https://english.motir.go.kr/eng/article/EATCLdfa319ada/2677/view",
+                                        "https://en.yna.co.kr/view/AEN20260702001200320",
+                                        "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-warsh-ecb-forum/card/dow-ends-fractionally-lower-s-p-500-and-nasdaq-fall-as-semiconductor-stocks-wobble-I97pBsRcKTNdXkGruChK",
+                                        "https://apnews.com/article/korea-samsung-ai-hynix-chips-22352d95c7a821c5f4548b2d1a4ebde8"
+                                    ],
+                        "updated_at":  "2026-07-02T09:37:03+09:00"
+                    },
                     {
                         "date":  "2026-07-01",
                         "slot_time":  "15:30",
