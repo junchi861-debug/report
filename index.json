@@ -1,7 +1,26 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-02T09:37:03+09:00",
+    "updated_at":  "2026-07-03T08:34:35+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-03",
+                        "slot_time":  "08:30",
+                        "title":  "2026-07-03 시장 테이프",
+                        "verdict":  "KOSPI200 선물·옵션 참고용 한국 장전 흐름",
+                        "summary":  "한 줄로 보면 `환율 부담은 줄었지만, 반도체 대장주가 갈라져 아직 장전 반등을 믿기 이른 테이프`입니다. 08:32 KST 네이버 공개 데이터 기준 KOSPI는 7,648.09, KOSDAQ은 866.72, KOSPI200은 1,219.62이고 모두 PREOPEN 상태입니다. 정규장 체결 전이라 지수 방향을 단정할...",
+                        "path":  "reports/2026/07/2026-07-03-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,105560,086790,012450,064350,010120,006260,001440,267260,047810,034020,373220,000270,005380,035420,035720",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
+                                        "https://apnews.com/article/e0295b54f6c8589edbbf23968086503e",
+                                        "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-warsh-ecb-forum/card/chip-stocks-start-july-with-a-rare-loss-jlWK6ep6rmu43f32qekG",
+                                        "https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-key-unemployment-jobs-data-june/card/oil-prices-extend-slide-on-track-for-relatively-long-weekly-losing-streaks-KvXqOPVjJEElssCrFifH",
+                                        "https://en.yna.co.kr/view/AEN20260702003151320",
+                                        "https://www.businessinsider.com/kospi-today-korea-stock-market-index-samsung-sk-hynix-chips-2026-7"
+                                    ],
+                        "updated_at":  "2026-07-03T08:34:35+09:00"
+                    },
                     {
                         "date":  "2026-07-02",
                         "slot_time":  "09:30",
