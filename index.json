@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-03T08:34:35+09:00",
+    "updated_at":  "2026-07-03T10:22:04+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-03",
-                        "slot_time":  "08:30",
+                        "slot_time":  "10:00",
                         "title":  "2026-07-03 시장 테이프",
-                        "verdict":  "KOSPI200 선물·옵션 참고용 한국 장전 흐름",
-                        "summary":  "한 줄로 보면 `환율 부담은 줄었지만, 반도체 대장주가 갈라져 아직 장전 반등을 믿기 이른 테이프`입니다. 08:32 KST 네이버 공개 데이터 기준 KOSPI는 7,648.09, KOSDAQ은 866.72, KOSPI200은 1,219.62이고 모두 PREOPEN 상태입니다. 정규장 체결 전이라 지수 방향을 단정할...",
+                        "verdict":  "KOSPI200 선물·옵션 참고용 한국 시장 흐름",
+                        "summary":  "한 줄로 보면 `삼성전자와 금융이 지수를 들어 올렸지만, 코스닥과 AI 인프라 테마가 빠져 상방 확인은 아직 덜 찬 테이프`입니다. 10:19 KST 네이버 공개 데이터 기준 KOSPI는 7,699.66, +0.67%, KOSPI200은 1,230.10, +0.86%로 정규장 OPEN 상태입니다. 08:30 장전의 ...",
                         "path":  "reports/2026/07/2026-07-03-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -19,7 +19,7 @@
                                         "https://en.yna.co.kr/view/AEN20260702003151320",
                                         "https://www.businessinsider.com/kospi-today-korea-stock-market-index-samsung-sk-hynix-chips-2026-7"
                                     ],
-                        "updated_at":  "2026-07-03T08:34:35+09:00"
+                        "updated_at":  "2026-07-03T10:22:04+09:00"
                     },
                     {
                         "date":  "2026-07-02",
