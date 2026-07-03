@@ -1,13 +1,13 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-03T10:22:04+09:00",
+    "updated_at":  "2026-07-03T11:05:27+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-03",
-                        "slot_time":  "10:00",
+                        "slot_time":  "11:00",
                         "title":  "2026-07-03 시장 테이프",
-                        "verdict":  "KOSPI200 선물·옵션 참고용 한국 시장 흐름",
-                        "summary":  "한 줄로 보면 `삼성전자와 금융이 지수를 들어 올렸지만, 코스닥과 AI 인프라 테마가 빠져 상방 확인은 아직 덜 찬 테이프`입니다. 10:19 KST 네이버 공개 데이터 기준 KOSPI는 7,699.66, +0.67%, KOSPI200은 1,230.10, +0.86%로 정규장 OPEN 상태입니다. 08:30 장전의 ...",
+                        "verdict":  "11시 02분 정규장에서는 KOSPI200이 1,257.02, +3.07%로 1,250선을 넘었고 삼성전자 +6.12%, SK하이닉스 +4.48%가 동시에 살아났습니다. 원/달러도 1,539.70원으로 내려와 지수 상방 확인은 10시보다 한 칸 강해졌지만, 코스닥 -3.15%, 전력기기·전선·인터넷 약세가 남아 `반도체가 지수를 끌어올렸지만 시장 폭은 아직 거친 테이프`입니다.",
+                        "summary":  "한 줄로 보면 `반도체가 되살아 KOSPI200은 상방 확인 쪽으로 한 칸 전진했지만, 코스닥과 테마 차익실현이 남아 넓은 상승장은 아직 아닌 테이프`입니다. 11:02 KST 네이버 공개 데이터 기준 KOSPI는 7,840.21, +2.51%, KOSPI200은 1,257.02, +3.07%로 정규장 OPEN 상태...",
                         "path":  "reports/2026/07/2026-07-03-market-integrated-report.md",
                         "sources":  [
                                         "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
@@ -19,7 +19,7 @@
                                         "https://en.yna.co.kr/view/AEN20260702003151320",
                                         "https://www.businessinsider.com/kospi-today-korea-stock-market-index-samsung-sk-hynix-chips-2026-7"
                                     ],
-                        "updated_at":  "2026-07-03T10:22:04+09:00"
+                        "updated_at":  "2026-07-03T11:05:27+09:00"
                     },
                     {
                         "date":  "2026-07-02",
