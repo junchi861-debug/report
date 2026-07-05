@@ -1,7 +1,28 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-03T15:06:35+09:00",
+    "updated_at":  "2026-07-06T08:33:21+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-06",
+                        "slot_time":  "08:30",
+                        "title":  "2026-07-06 시장 테이프",
+                        "verdict":  "장전 호가는 반도체가 다시 강하고 미국 나스닥 선물도 위로 떠 있지만, 정규장 체결 전이라 아직은 `반도체 반등 후보는 선명하고, 지수 방향은 개장 이후 KOSPI200 1,300선 안착을 봐야 하는 장전 테이프`입니다.",
+                        "summary":  "한 줄로 보면 `반도체 장전 호가는 다시 뜨겁고 환율은 지난주보다 편해졌지만, 금융·자동차가 갈라져 정규장 전에는 상방 확인보다 반등 후보 확인에 가까운 테이프`입니다. 08:30 KST 네이버 공개 데이터 기준 KOSPI 8,088.34, KOSDAQ 868.41, KOSPI200 1,299.30은 모두 PREOP...",
+                        "path":  "reports/2026/07/2026-07-06-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,105560,086790,012450,064350,010120,006260,001440,267260,047810,034020,373220,000270,005380,035420,035720",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX?interval=1m\u0026range=1d",
+                                        "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397",
+                                        "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-07022026-12011277",
+                                        "https://tradingeconomics.com/south-korea/stock-market"
+                                    ],
+                        "updated_at":  "2026-07-06T08:33:21+09:00"
+                    },
                     {
                         "date":  "2026-07-03",
                         "slot_time":  "15:00",
