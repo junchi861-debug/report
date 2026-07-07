@@ -1,7 +1,29 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-06T08:33:21+09:00",
+    "updated_at":  "2026-07-07T10:00:08+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-07",
+                        "slot_time":  "09:58",
+                        "title":  "2026-07-07 시장 테이프",
+                        "verdict":  "환율은 안정적인데도 반도체와 대형주가 무너지며 KOSPI200이 1,240선을 내준 장입니다. 지금 테이프는 `미국 반도체 온기보다 국내 AI 대형주 과열 부담이 더 크게 작동하는 하방 방어장`입니다.",
+                        "summary":  "한 줄로 보면 `환율과 해외 반도체는 버팀목인데, 국내 반도체·자동차·2차전지·방산이 한꺼번에 빠져 지수는 하방 방어 쪽으로 꺾인 테이프`입니다. 09:58 KST 네이버 공개 데이터 기준 KOSPI는 7,720.22, -4.11%, KOSPI200은 1,235.78, -4.43%입니다. KOSPI200은 1,271...",
+                        "path":  "reports/2026/07/2026-07-07-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,105560,086790,012450,064350,010120,006260,001440,267260,047810,034020,373220,000270,005380,035420,035720,005490,004020,010130,103140,006400,066570,055550,032830",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX?interval=1m\u0026range=1d",
+                                        "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-06-2026-e2b13bf1",
+                                        "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-06-2026",
+                                        "https://m.economictimes.com/markets/us-stocks/news/global-market-kospi-slides-after-early-surge-as-ai-stocks-face-valuation-pressure/articleshow/132209618.cms",
+                                        "https://tradingeconomics.com/south-korea/stock-market"
+                                    ],
+                        "updated_at":  "2026-07-07T10:00:08+09:00"
+                    },
                     {
                         "date":  "2026-07-06",
                         "slot_time":  "08:30",
