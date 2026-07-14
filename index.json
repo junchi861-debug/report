@@ -1,7 +1,31 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-07T10:00:08+09:00",
+    "updated_at":  "2026-07-14T13:53:55+09:00",
     "reports":  [
+                    {
+                        "date":  "2026-07-14",
+                        "slot_time":  "13:42",
+                        "title":  "2026-07-14 시장 테이프",
+                        "verdict":  "오전 공포는 크게 되감았지만 시장 전체가 살아난 것은 아닙니다. 지금 테이프는 `삼성전자가 지수를 세우는 동안 코스닥·자동차·방산은 여전히 눌리는, 복구 폭은 크고 신뢰도는 낮은 변동성 방어장`입니다.",
+                        "summary":  "한 줄로 보면 `KOSPI200은 보합권까지 돌아왔지만 속을 뜯어보면 삼성전자와 일부 금융·전력기기만 버티고, 코스닥과 경기민감 대형주는 아직 약한 장`입니다. 13:52 KST 공개 시세 기준 KOSPI는 6,805.55, -0.02%, KOSPI200은 1,081.82, +0.28%입니다. 숫자만 보면 안정됐지만...",
+                        "path":  "reports/2026/07/2026-07-14-market-integrated-report.md",
+                        "sources":  [
+                                        "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                                        "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,105560,086790,012450,064350,010120,006260,001440,267260,047810,034020,373220,000270,005380,035420,035720,005490,004020,010130,103140,006400,066570,055550,032830",
+                                        "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange\u0026reutersCode=FX_USDKRW",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/ES%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/NQ%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/CL%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/%5ESOX?interval=1m\u0026range=1d",
+                                        "https://query1.finance.yahoo.com/v8/finance/chart/SOXX?interval=1m\u0026range=1d",
+                                        "https://apnews.com/article/stocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce",
+                                        "https://apnews.com/article/wall-street-stocks-dow-nasdaq-84784dd049267a58ac547d8a1c7fcd02",
+                                        "https://www.investing.com/news/stock-market-news/analysisinside-south-koreas-worldbeating-bear-market-4789669",
+                                        "https://www.bls.gov/schedule/2026/07_sched.htm"
+                                    ],
+                        "updated_at":  "2026-07-14T13:53:55+09:00"
+                    },
                     {
                         "date":  "2026-07-07",
                         "slot_time":  "09:58",
