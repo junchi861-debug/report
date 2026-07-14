@@ -1,10 +1,10 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-14T13:53:55+09:00",
+    "updated_at":  "2026-07-14T13:56:35+09:00",
     "reports":  [
                     {
                         "date":  "2026-07-14",
-                        "slot_time":  "13:42",
+                        "slot_time":  "13:52",
                         "title":  "2026-07-14 시장 테이프",
                         "verdict":  "오전 공포는 크게 되감았지만 시장 전체가 살아난 것은 아닙니다. 지금 테이프는 `삼성전자가 지수를 세우는 동안 코스닥·자동차·방산은 여전히 눌리는, 복구 폭은 크고 신뢰도는 낮은 변동성 방어장`입니다.",
                         "summary":  "한 줄로 보면 `KOSPI200은 보합권까지 돌아왔지만 속을 뜯어보면 삼성전자와 일부 금융·전력기기만 버티고, 코스닥과 경기민감 대형주는 아직 약한 장`입니다. 13:52 KST 공개 시세 기준 KOSPI는 6,805.55, -0.02%, KOSPI200은 1,081.82, +0.28%입니다. 숫자만 보면 안정됐지만...",
@@ -24,7 +24,7 @@
                                         "https://www.investing.com/news/stock-market-news/analysisinside-south-koreas-worldbeating-bear-market-4789669",
                                         "https://www.bls.gov/schedule/2026/07_sched.htm"
                                     ],
-                        "updated_at":  "2026-07-14T13:53:55+09:00"
+                        "updated_at":  "2026-07-14T13:56:35+09:00"
                     },
                     {
                         "date":  "2026-07-07",
