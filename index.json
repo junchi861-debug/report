@@ -1,6 +1,6 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-09-11T14:53:50+09:00",
+    "updated_at":  "2026-09-11T15:00:04+09:00",
     "reports":  [
                     {
                         "date": "2026-09-11",
@@ -18,7 +18,7 @@
                             "https://www.bls.gov/schedule/2026/09_sched.htm",
                             "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
                         ],
-                        "updated_at": "2026-09-11T14:53:50+09:00"
+                        "updated_at": "2026-09-11T15:00:04+09:00"
                     },
                     {
                         "date":  "2026-07-14",
