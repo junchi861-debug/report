@@ -1,7 +1,25 @@
 {
     "schema":  "slackstock.public_market_reports.v1",
-    "updated_at":  "2026-07-14T13:56:35+09:00",
+    "updated_at":  "2026-09-11T14:53:50+09:00",
     "reports":  [
+                    {
+                        "date": "2026-09-11",
+                        "slot_time": "14:51",
+                        "title": "2026-09-11 장중 시장 리포트 · 반도체 약세와 CPI 대기",
+                        "verdict": "장중 저점에서는 반등했지만 주요 지수와 반도체가 여전히 약합니다. 일부 금융·방산 종목의 강세만으로 시장 전체의 회복을 판단하기 어렵고, 오늘 밤 미국 CPI 발표 이후 가격 반응을 확인할 필요가 있습니다.",
+                        "summary": "저점 반등은 있었지만 전일 대비 하락을 되돌리지는 못한 상태입니다. 14:51 현물 기준 KOSPI는 6,891.33(-2.03%), KOSDAQ은 820.07(-2.01%), KOSPI200은 1,086.94(-2.27%)입니다. KOSPI200은 장중 저점 1,073.43을 웃돌지만 고점 1,091.79에는 못 미칩니다. 저점 대비 회복과 전일 대비 약세를 함께 봐야 합니다.",
+                        "path": "reports/2026/09/2026-09-11-market-integrated-report.md",
+                        "sources": [
+                            "https://polling.finance.naver.com/api/realtime/domestic/index/KOSPI,KOSDAQ,KPI200",
+                            "https://polling.finance.naver.com/api/realtime/domestic/stock/005930,000660,005380,035420,105560,012450,373220",
+                            "https://m.stock.naver.com/front-api/marketIndex/productDetail?category=exchange&reutersCode=FX_USDKRW",
+                            "https://port-0-option-mqj4ohvwcfde2f8c.sel3.cloudtype.app/api/options-monitor?scope=main&format=compact",
+                            "https://www.bls.gov/news.release/archives/ppi_09102026.htm",
+                            "https://www.bls.gov/schedule/2026/09_sched.htm",
+                            "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+                        ],
+                        "updated_at": "2026-09-11T14:53:50+09:00"
+                    },
                     {
                         "date":  "2026-07-14",
                         "slot_time":  "13:52",
